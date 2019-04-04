@@ -1,4 +1,4 @@
-# Mr. Robot
+# Self Driving RC Car
 A Self-Driving Remote Control Car controlled by a browser. All inside a Raspberry Pi
 
 <p align="center">
